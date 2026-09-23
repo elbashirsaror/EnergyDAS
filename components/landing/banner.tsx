@@ -11,8 +11,8 @@ export function Hero() {
         <div className="mx-auto mt-14 max-w-5xl">
           <div className="overflow-hidden rounded-xl border border-border bg-card shadow-2xl shadow-primary/10">
             <Image
-              src="/images/hero-dashboard.png"
-              alt="energyDAS SCADA dashboard showing live power consumption, demand gauges and facility metering"
+              src="/images/banner.png"
+              alt="energyDAS banner showing live power consumption, demand gauges and facility metering"
               width={1600}
               height={1000}
               className="h-auto w-full"
